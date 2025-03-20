@@ -1,5 +1,4 @@
-> [!WARNING]
-> This repo has been moved to BaskttLang/BaskttLang
+
 
 <img src="./src/public/img/logo.svg" width="200" alt="Logo">
 
