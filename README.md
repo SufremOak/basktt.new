@@ -1,3 +1,5 @@
+> [!NOTE]
+> Basktt is being migrated to another language, during this process the releases can be a bit unstable and with a different syntax sometimes, because the code is being rewritten
 
 
 <img src="./src/public/img/logo.svg" width="200" alt="Logo">
@@ -6,7 +8,7 @@
 
 code example:
 ```basktt
-@use man;
+@use ii;
 fun Main => {
     var name = "Miguel";
     if(name === "Miguel") {
@@ -25,7 +27,7 @@ installing directy:
 ```bash
 npm install --global https://github.com/StumbDev/basktt.git
 basktt --version
-0.1.0
+0.1.2-.new-alpha-1
 ```
 Manual:
 ```bash
